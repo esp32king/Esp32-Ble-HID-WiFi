@@ -36,7 +36,8 @@ You just open ESP32’s webpage → tap a button → and ESP32 will type or run 
 
 ---
 
-
+Flash Here 👉 <a href="https://esptool.spacehuhn.com/">esptool.spacehuhn.com</a>
+---
 # 1️⃣ Flash to ESP32
 ---
  Check <a href="https://github.com/esp32king/Esp32-Ble-HID-WiFi/Releases">Releases</a>
