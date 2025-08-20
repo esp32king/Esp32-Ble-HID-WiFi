@@ -66,8 +66,8 @@ Flash Here 👉 <a href="https://esptool.spacehuhn.com/">esptool.spacehuhn.com</
 
 
 
+<img src="https://raw.githubusercontent.com/esp32king/Esp32-Ble-HID-WiFi/refs/heads/main/Files/Test.jpg"></img>
 
----
 
 # 🖥 Web Panel
 
@@ -108,7 +108,7 @@ The ESP32 hosts a webpage with:
 
 
 ---
-<img src="https://raw.githubusercontent.com/esp32king/Esp32-Ble-HID-WiFi/refs/heads/main/Files/Test.jpg"></img>
+
 These are all buttons Only Tap to Run 
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-Ble-HID-WiFi/refs/heads/main/Files/Test2.jpg"></img>
 
