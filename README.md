@@ -28,6 +28,9 @@ You just open ESP32’s webpage → tap a button → and ESP32 will type or run 
 
 # 🛠 Requirements
 
+ Esp32 Board
+ Laptop or Pc For Flashing Code
+
 
 
 
@@ -36,7 +39,11 @@ You just open ESP32’s webpage → tap a button → and ESP32 will type or run 
 
 # 1️⃣ Flash to ESP32
 
+bootloader.bin → 0x1000
 
+partitions.bin → 0x8000
+
+ESP32-BLE-HID-WIFI.bin → 0x10000
 
 
 # 2️⃣ Connect & Control
