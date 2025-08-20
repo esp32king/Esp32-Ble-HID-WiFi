@@ -39,11 +39,12 @@ You just open ESP32’s webpage → tap a button → and ESP32 will type or run 
 
 # 1️⃣ Flash to ESP32
 
-bootloader.bin → 0x1000
+<br> Check <a href="https://github.com/esp32king/Esp32-Ble-HID-WiFi/Releases">Releases</a></br>
+<a href="https://github.com/esp32king/Esp32-Ble-HID-WiFi/releases/download/Esp32-BLE-HID-WiFi/bootloader.bin">bootloader.bin</a> → 0x1000
 
-partitions.bin → 0x8000
+<a href="https://github.com/esp32king/Esp32-Ble-HID-WiFi/releases/download/Esp32-BLE-HID-WiFi/partitions.bin">partitions.bin</a> → 0x8000
 
-ESP32-BLE-HID-WIFI.bin → 0x10000
+<a href="https://github.com/esp32king/Esp32-Ble-HID-WiFi/releases/download/Esp32-BLE-HID-WiFi/Esp32-BLE-HID-WiFi.bin">ESP32-BLE-HID-WIFI.bin</a> → 0x10000
 
 
 # 2️⃣ Connect & Control
